@@ -1,0 +1,22 @@
+// Place all the styles related to the Verbs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.divstyle {
+  border: solid thin #ff0000;
+  color: #ffffff;
+}
+
+.tablestyle {
+  border: solid thin #ffff00;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 14pt;
+  color: #000000;
+}
+
+.tableheadingstyle {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 14pt;
+  color: #ff0000;
+  border: solid thin #0000ff;
+}

@@ -1,0 +1,103 @@
+<h1>Listing verbs</h1>
+
+<table>
+  <tr>
+    <th>Entry</th>
+    <th>Verb</th>
+    <th>Definition</th>
+    <th>Participio</th>
+    <th>Gerundio</th>
+    <th>Pres eu</th>
+    <th>Pres ele</th>
+    <th>Pres nos</th>
+    <th>Pres eles</th>
+    <th>Pret eu</th>
+    <th>Pret ele</th>
+    <th>Pret nos</th>
+    <th>Pret eles</th>
+    <th>Imp eu</th>
+    <th>Imp ele</th>
+    <th>Imp nos</th>
+    <th>Imp eles</th>
+    <th>Fut eu</th>
+    <th>Fut ele</th>
+    <th>Fut nos</th>
+    <th>Fut eles</th>
+    <th>Cond eu</th>
+    <th>Cond ele</th>
+    <th>Cond nos</th>
+    <th>Cond eles</th>
+    <th>Pres sub eu</th>
+    <th>Pres sub ele</th>
+    <th>Pres sub nos</th>
+    <th>Pres sub eles</th>
+    <th>Imp sub eu</th>
+    <th>Imp sub ele</th>
+    <th>Imp sub nos</th>
+    <th>Imp sub eles</th>
+    <th>Fut sub eu</th>
+    <th>Fut sub ele</th>
+    <th>Fut sub nos</th>
+    <th>Fut sub eles</th>
+    <th>Sent1</th>
+    <th>Sent2</th>
+    <th>Sent3</th>
+    <th>Sent4</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @verbs.each do |verb| %>
+  <tr>
+    <td><%= verb.entry_id %></td>
+    <td><%= verb.verb %></td>
+    <td><%= verb.definition %></td>
+    <td><%= verb.participio %></td>
+    <td><%= verb.gerundio %></td>
+    <td><%= verb.pres_eu %></td>
+    <td><%= verb.pres_ele %></td>
+    <td><%= verb.pres_nos %></td>
+    <td><%= verb.pres_eles %></td>
+    <td><%= verb.pret_eu %></td>
+    <td><%= verb.pret_ele %></td>
+    <td><%= verb.pret_nos %></td>
+    <td><%= verb.pret_eles %></td>
+    <td><%= verb.imp_eu %></td>
+    <td><%= verb.imp_ele %></td>
+    <td><%= verb.imp_nos %></td>
+    <td><%= verb.imp_eles %></td>
+    <td><%= verb.fut_eu %></td>
+    <td><%= verb.fut_ele %></td>
+    <td><%= verb.fut_nos %></td>
+    <td><%= verb.fut_eles %></td>
+    <td><%= verb.cond_eu %></td>
+    <td><%= verb.cond_ele %></td>
+    <td><%= verb.cond_nos %></td>
+    <td><%= verb.cond_eles %></td>
+    <td><%= verb.pres_sub_eu %></td>
+    <td><%= verb.pres_sub_ele %></td>
+    <td><%= verb.pres_sub_nos %></td>
+    <td><%= verb.pres_sub_eles %></td>
+    <td><%= verb.imp_sub_eu %></td>
+    <td><%= verb.imp_sub_ele %></td>
+    <td><%= verb.imp_sub_nos %></td>
+    <td><%= verb.imp_sub_eles %></td>
+    <td><%= verb.fut_sub_eu %></td>
+    <td><%= verb.fut_sub_ele %></td>
+    <td><%= verb.fut_sub_nos %></td>
+    <td><%= verb.fut_sub_eles %></td>
+    <td><%= verb.sent1 %></td>
+    <td><%= verb.sent2 %></td>
+    <td><%= verb.sent3 %></td>
+    <td><%= verb.sent4 %></td>
+    <td><%= link_to 'Show', verb %></td>
+    <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
+    <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Verb', new_verb_path %>
