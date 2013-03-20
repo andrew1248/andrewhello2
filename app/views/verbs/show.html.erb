@@ -38,7 +38,7 @@
       <td colspan="2" class="tableheadingstyle">Presente do Indicativo</td>
     </tr>
     <tr>
-      <td class="tablestyle">eu <%= @verb.pres_eu.html_safe %></td>
+      <td class="tablestyle">eu <%= @verb.pres_eu %></td>
       <td class="tablestyle">nós <%= @verb.pres_nos %></td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td class="tablestyle">ele <%= @verb.pret_ele %></td>
-      <td class="tablestyle">eles <%= @verb.pret_eles.html_safe %></td>
+      <td class="tablestyle">eles <%= @verb.pret_eles %></td>
     </tr>
   </table>
 </div>
@@ -166,16 +166,16 @@
       <td class="tableheadingstyle">Frases</td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @verb.sent1 %></td>
+      <td class="tablestyle"><%= @verb.sent1.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @verb.sent2 %></td>
+      <td class="tablestyle"><%= @verb.sent2.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @verb.sent3 %></td>
+      <td class="tablestyle"><%= @verb.sent3.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @verb.sent4 %></td>
+      <td class="tablestyle"><%= @verb.sent4.html_safe %></td>
     </tr>
   </table>
 </div>
