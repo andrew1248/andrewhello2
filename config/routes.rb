@@ -1,5 +1,5 @@
 Verbapp::Application.routes.draw do
-  get "greetings/goodbye"
+  get "verbos/conjugacao_verbal"
 
   resources :verbs
 
