@@ -3,11 +3,11 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .divstyle {
-  border: none thin #ff0000;
+  border: solid thin #ff0000;
 }
 
 .tablestyle {
-  border: none thin #000000;
+  border: solid thin #000000;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14pt;
   color: #000000;
@@ -17,5 +17,5 @@
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14pt;
   color: #ff0000;
-  border: none thin #0000ff;
+  border: solid thin #0000ff;
 }
