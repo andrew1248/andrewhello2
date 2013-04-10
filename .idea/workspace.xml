@@ -10,9 +10,9 @@
     <file path="/show.html.erb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1363839261585" ignored="false" />
     <file path="/scaffolds.css.scss" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1362696767656" ignored="false" />
     <file path="/application.html.erb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1362329984637" ignored="false" />
-    <file path="/verbs.css.scss" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1364789200976" ignored="false" />
+    <file path="/verbs.css.scss" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1365478268373" ignored="false" />
     <file path="/goodbye.html.erb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1363789598131" ignored="false" />
-    <file path="/Dummy.txt" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1365010953479" ignored="false" />
+    <file path="/Dummy.txt" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1365631161773" ignored="false" />
     <file path="/temp.rb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1363835062991" ignored="false" />
     <file path="/conjugacao_verbal.html.erb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1363839447024" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="verbs.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/verbs.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="0.7">
+            <state line="21" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.6626214">
               <folding />
             </state>
           </provider>
@@ -93,7 +93,7 @@
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1374" />
-    <option name="height" value="748" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -121,8 +121,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -277,18 +275,20 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -542,18 +542,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="748" extended-state="0" />
-    <editor active="false" />
+    <frame x="-4" y="-4" width="1374" height="776" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33863637" sideWeight="0.6634769" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29090908" sideWeight="0.6687023" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33652312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3312977" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -701,7 +701,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/verbs.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="0.7">
+        <state line="21" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.6626214">
           <folding />
         </state>
       </provider>
