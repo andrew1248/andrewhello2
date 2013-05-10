@@ -38,6 +38,8 @@
 
 <product EntryID="441" Verb="sair"/>
 
+<product EntryID="444" Verb="seguir"/>
+
 <product EntryID="447" Verb="ser"/>
 
 <product EntryID="467" Verb="ter"/>
