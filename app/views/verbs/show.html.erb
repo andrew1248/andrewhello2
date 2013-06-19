@@ -38,12 +38,12 @@
       <td colspan="2" class="tableheadingstyle">Presente do Indicativo</td>
     </tr>
     <tr>
-      <td class="tablestyle">Eu <%= @verb.pres_eu %></td>
-      <td class="tablestyle">Nós <%= @verb.pres_nos %></td>
+      <td class="tablestyle">Eu <%= @verb.pres_eu.html_safe %></td>
+      <td class="tablestyle">Nós <%= @verb.pres_nos.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle">Ele <%= @verb.pres_ele %></td>
-      <td class="tablestyle">Eles <%= @verb.pres_eles %></td>
+      <td class="tablestyle">Ele <%= @verb.pres_ele.html_safe %></td>
+      <td class="tablestyle">Eles <%= @verb.pres_eles.html_safe %></td>
     </tr>
   </table>
 </div>
@@ -144,7 +144,7 @@
   </table>
 </div>
 
-<div id="fut_sub" style="position: absolute; width: 360px; height: 120px; left: 320px; top: 350px" class="divstyle">
+<div id="fut_sub" style="position: absolute; width: 360px; height: 90px; left: 320px; top: 350px" class="divstyle">
   <table style="width: 100%" class="tablestyle">
     <tr>
       <td colspan="2" class="tableheadingstyle">Futuro do Subjuntivo</td>
