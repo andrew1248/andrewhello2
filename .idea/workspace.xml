@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ad5f83c-7dd2-4b63-925c-11b838da1be2" name="Default" comment="">
       <change type="DELETED" beforePath="C:\RailsApplications\andrewhello2\latest.dump" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/andrew.xml" afterPath="$PROJECT_DIR$/public/andrew.xml" />
     </list>
     <ignored path="verbapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -10,7 +11,7 @@
     <file path="/andrew.xml" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1367033392397" ignored="false" />
     <file path="/conjugacao_verbal.html.erb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1379715399782" ignored="false" />
     <file path="/temp.rb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1363835062991" ignored="false" />
-    <file path="/Dummy.txt" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1379824222797" ignored="false" />
+    <file path="/Dummy.txt" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1379827736854" ignored="false" />
     <file path="/goodbye.html.erb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1363789598131" ignored="false" />
     <file path="/verbs.css.scss" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1379716298283" ignored="false" />
     <file path="/application.html.erb" changelist="3ad5f83c-7dd2-4b63-925c-11b838da1be2" time="1362329984637" ignored="false" />
@@ -47,35 +48,8 @@
       <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/verbs/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#3;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#4;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#5;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#6;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#7;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#8;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#9;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#9;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#10;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#10;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#11;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#12;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#12;n#!!top" expanded="true" />
-              </folding>
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,7 +57,7 @@
       <file leaf-file-name="conjugacao_verbal.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/verbos/conjugacao_verbal.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="70" selection-start="225" selection-end="225" vertical-scroll-proportion="-4.7272725">
+            <state line="8" column="70" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,7 +66,7 @@
       <file leaf-file-name="start_page.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/start_page.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="-13.590909">
+            <state line="23" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -301,21 +275,21 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="editor.preferences.folding" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="editor.preferences.folding" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -603,13 +577,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="748" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27878788" sideWeight="0.61244017" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28333333" sideWeight="0.61244017" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4224" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -742,14 +716,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/start_page.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="-13.590909">
+        <state line="23" column="21" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbos/conjugacao_verbal.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="70" selection-start="225" selection-end="225" vertical-scroll-proportion="-4.7272725">
+        <state line="8" column="70" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -757,34 +731,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/verbs/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#4;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#5;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#6;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#7;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#8;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#8;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#9;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#10;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#10;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#11;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#12;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#12;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
