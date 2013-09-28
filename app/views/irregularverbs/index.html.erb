@@ -1,0 +1,103 @@
+<h1>Listing irregularverbs</h1>
+
+<table>
+  <tr>
+    <th>Verb</th>
+    <th>Entry</th>
+    <th>Definition</th>
+    <th>Gerundio</th>
+    <th>Participio</th>
+    <th>Pres eu</th>
+    <th>Pres ele</th>
+    <th>Pres nos</th>
+    <th>Pres eles</th>
+    <th>Pret eu</th>
+    <th>Pret ele</th>
+    <th>Pret nos</th>
+    <th>Pret eles</th>
+    <th>Imp eu</th>
+    <th>Imp ele</th>
+    <th>Imp nos</th>
+    <th>Imp eles</th>
+    <th>Fut eu</th>
+    <th>Fut ele</th>
+    <th>Fut nos</th>
+    <th>Fut eles</th>
+    <th>Cond eu</th>
+    <th>Cond ele</th>
+    <th>Cond nos</th>
+    <th>Cond eles</th>
+    <th>Pres sub eu</th>
+    <th>Pres sub ele</th>
+    <th>Pres sub nos</th>
+    <th>Pres sub eles</th>
+    <th>Imp sub eu</th>
+    <th>Imp sub ele</th>
+    <th>Imp sub nos</th>
+    <th>Imp sub eles</th>
+    <th>Fut sub eu</th>
+    <th>Fut sub ele</th>
+    <th>Fut sub nos</th>
+    <th>Fut sub eles</th>
+    <th>Sent1</th>
+    <th>Sent2</th>
+    <th>Sent3</th>
+    <th>Sent4</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @irregularverbs.each do |irregularverb| %>
+  <tr>
+    <td><%= irregularverb.verb %></td>
+    <td><%= irregularverb.entry_id %></td>
+    <td><%= irregularverb.definition %></td>
+    <td><%= irregularverb.gerundio %></td>
+    <td><%= irregularverb.participio %></td>
+    <td><%= irregularverb.pres_eu %></td>
+    <td><%= irregularverb.pres_ele %></td>
+    <td><%= irregularverb.pres_nos %></td>
+    <td><%= irregularverb.pres_eles %></td>
+    <td><%= irregularverb.pret_eu %></td>
+    <td><%= irregularverb.pret_ele %></td>
+    <td><%= irregularverb.pret_nos %></td>
+    <td><%= irregularverb.pret_eles %></td>
+    <td><%= irregularverb.imp_eu %></td>
+    <td><%= irregularverb.imp_ele %></td>
+    <td><%= irregularverb.imp_nos %></td>
+    <td><%= irregularverb.imp_eles %></td>
+    <td><%= irregularverb.fut_eu %></td>
+    <td><%= irregularverb.fut_ele %></td>
+    <td><%= irregularverb.fut_nos %></td>
+    <td><%= irregularverb.fut_eles %></td>
+    <td><%= irregularverb.cond_eu %></td>
+    <td><%= irregularverb.cond_ele %></td>
+    <td><%= irregularverb.cond_nos %></td>
+    <td><%= irregularverb.cond_eles %></td>
+    <td><%= irregularverb.pres_sub_eu %></td>
+    <td><%= irregularverb.pres_sub_ele %></td>
+    <td><%= irregularverb.pres_sub_nos %></td>
+    <td><%= irregularverb.pres_sub_eles %></td>
+    <td><%= irregularverb.imp_sub_eu %></td>
+    <td><%= irregularverb.imp_sub_ele %></td>
+    <td><%= irregularverb.imp_sub_nos %></td>
+    <td><%= irregularverb.imp_sub_eles %></td>
+    <td><%= irregularverb.fut_sub_eu %></td>
+    <td><%= irregularverb.fut_sub_ele %></td>
+    <td><%= irregularverb.fut_sub_nos %></td>
+    <td><%= irregularverb.fut_sub_eles %></td>
+    <td><%= irregularverb.sent1 %></td>
+    <td><%= irregularverb.sent2 %></td>
+    <td><%= irregularverb.sent3 %></td>
+    <td><%= irregularverb.sent4 %></td>
+    <td><%= link_to 'Show', irregularverb %></td>
+    <td><%= link_to 'Edit', edit_irregularverb_path(irregularverb) %></td>
+    <td><%= link_to 'Destroy', irregularverb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Irregularverb', new_irregularverb_path %>

@@ -1,10 +1,12 @@
 Verbapp::Application.routes.draw do
+  get "verbosirregulares/conjugacao_verbal"
+
+  get "irregularverbs/index"
   get "verbos/conjugacao_verbal"
+  get "irregularverbs/conjugacao_verbal"
 
   resources :verbs
-
-
-  get "home/index"
+  resources :irregularverbs
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

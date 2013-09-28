@@ -1,0 +1,181 @@
+<%= form_for(@irregularverb) do |f| %>
+  <% if @irregularverb.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@irregularverb.errors.count, "error") %> prohibited this irregularverb from being saved:</h2>
+
+      <ul>
+      <% @irregularverb.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :verb %><br />
+    <%= f.text_area :verb %>
+  </div>
+  <div class="field">
+    <%= f.label :entry_id %><br />
+    <%= f.text_area :entry_id %>
+  </div>
+  <div class="field">
+    <%= f.label :definition %><br />
+    <%= f.text_area :definition %>
+  </div>
+  <div class="field">
+    <%= f.label :gerundio %><br />
+    <%= f.text_area :gerundio %>
+  </div>
+  <div class="field">
+    <%= f.label :participio %><br />
+    <%= f.text_area :participio %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_eu %><br />
+    <%= f.text_area :pres_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_ele %><br />
+    <%= f.text_area :pres_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_nos %><br />
+    <%= f.text_area :pres_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_eles %><br />
+    <%= f.text_area :pres_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :pret_eu %><br />
+    <%= f.text_area :pret_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :pret_ele %><br />
+    <%= f.text_area :pret_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :pret_nos %><br />
+    <%= f.text_area :pret_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :pret_eles %><br />
+    <%= f.text_area :pret_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_eu %><br />
+    <%= f.text_area :imp_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_ele %><br />
+    <%= f.text_area :imp_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_nos %><br />
+    <%= f.text_area :imp_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_eles %><br />
+    <%= f.text_area :imp_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_eu %><br />
+    <%= f.text_area :fut_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_ele %><br />
+    <%= f.text_area :fut_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_nos %><br />
+    <%= f.text_area :fut_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_eles %><br />
+    <%= f.text_area :fut_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :cond_eu %><br />
+    <%= f.text_area :cond_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :cond_ele %><br />
+    <%= f.text_area :cond_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :cond_nos %><br />
+    <%= f.text_area :cond_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :cond_eles %><br />
+    <%= f.text_area :cond_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_sub_eu %><br />
+    <%= f.text_area :pres_sub_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_sub_ele %><br />
+    <%= f.text_area :pres_sub_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_sub_nos %><br />
+    <%= f.text_area :pres_sub_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :pres_sub_eles %><br />
+    <%= f.text_area :pres_sub_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_sub_eu %><br />
+    <%= f.text_area :imp_sub_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_sub_ele %><br />
+    <%= f.text_area :imp_sub_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_sub_nos %><br />
+    <%= f.text_area :imp_sub_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :imp_sub_eles %><br />
+    <%= f.text_area :imp_sub_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_sub_eu %><br />
+    <%= f.text_area :fut_sub_eu %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_sub_ele %><br />
+    <%= f.text_area :fut_sub_ele %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_sub_nos %><br />
+    <%= f.text_area :fut_sub_nos %>
+  </div>
+  <div class="field">
+    <%= f.label :fut_sub_eles %><br />
+    <%= f.text_area :fut_sub_eles %>
+  </div>
+  <div class="field">
+    <%= f.label :sent1 %><br />
+    <%= f.text_area :sent1 %>
+  </div>
+  <div class="field">
+    <%= f.label :sent2 %><br />
+    <%= f.text_area :sent2 %>
+  </div>
+  <div class="field">
+    <%= f.label :sent3 %><br />
+    <%= f.text_area :sent3 %>
+  </div>
+  <div class="field">
+    <%= f.label :sent4 %><br />
+    <%= f.text_area :sent4 %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

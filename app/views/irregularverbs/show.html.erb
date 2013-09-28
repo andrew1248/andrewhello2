@@ -1,0 +1,181 @@
+<p id="notice"><%= notice %></p>
+
+<div id="verb" style="position: absolute; width: 60px; height: 40px; left: 0px; top: 0px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td class="tableheadingstyle"><%= @irregularverb.verb %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="definition" style="position: absolute; width: 500px; height: 40px; left: 70px; top: 0px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td class="tablestyle"><%= @irregularverb.definition %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="gerundio" style="position: absolute; width: 200px; height: 40px; left: 680px; top: 0px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td class="tableheadingstyle">Gerúndio</td><td class="tablestyle"><%= @irregularverb.gerundio %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="participio" style="position: absolute; width: 200px; height: 40px; left: 940px; top: 0px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td class="tableheadingstyle">Particípio</td><td class="tablestyle"><%= @irregularverb.participio %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="pres" style="position: absolute; width: 320px; height: 90px; left: 0px; top: 50px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Presente do Indicativo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">eu <%= @irregularverb.pres_eu.html_safe %></td>
+      <td class="tablestyle">nós <%= @irregularverb.pres_nos.html_safe %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">ele <%= @irregularverb.pres_ele.html_safe %></td>
+      <td class="tablestyle">eles <%= @irregularverb.pres_eles.html_safe %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="imp" style="position: absolute; width: 320px; height: 90px; left: 0px; top: 150px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Pretérito Imperfeito do Indicativo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">eu <%= @irregularverb.imp_eu %></td>
+      <td class="tablestyle">nós <%= @irregularverb.imp_nos %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">ele <%= @irregularverb.imp_ele %></td>
+      <td class="tablestyle">eles <%= @irregularverb.imp_eles %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="pret" style="position: absolute; width: 320px; height: 90px; left: 0px; top: 250px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Pretérito Perfeito do Indicativo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">eu <%= @irregularverb.pret_eu %></td>
+      <td class="tablestyle">nós <%= @irregularverb.pret_nos %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">ele <%= @irregularverb.pret_ele %></td>
+      <td class="tablestyle">eles <%= @irregularverb.pret_eles %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="fut" style="position: absolute; width: 320px; height: 90px; left: 0px; top: 350px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Futuro do Presente do Indicativo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">eu <%= @irregularverb.fut_eu %></td>
+      <td class="tablestyle">nós <%= @irregularverb.fut_nos %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">ele <%= @irregularverb.fut_ele %></td>
+      <td class="tablestyle">eles <%= @irregularverb.fut_eles %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="cond" style="position: absolute; width: 320px; height: 90px; left: 0px; top: 450px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Futuro do Pretérito do Indicativo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">eu <%= @irregularverb.cond_eu %></td>
+      <td class="tablestyle">nós <%= @irregularverb.cond_nos %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">ele <%= @irregularverb.cond_ele %></td>
+      <td class="tablestyle">eles <%= @irregularverb.cond_eles %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="pres_sub" style="position: absolute; width: 360px; height: 90px; left: 320px; top: 50px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Presente do Subjuntivo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">que eu <%= @irregularverb.pres_sub_eu %></td>
+      <td class="tablestyle">que nós <%= @irregularverb.pres_sub_nos %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">que ele <%= @irregularverb.pres_sub_ele %></td>
+      <td class="tablestyle">que eles <%= @irregularverb.pres_sub_eles %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="imp_sub" style="position: absolute; width: 360px; height: 90px; left: 320px; top: 150px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Pertérito Imperfeito do Subjuntivo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">que eu <%= @irregularverb.imp_sub_eu %></td>
+      <td class="tablestyle">que nós <%= @irregularverb.imp_sub_nos %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">que ele <%= @irregularverb.imp_sub_ele %></td>
+      <td class="tablestyle">que eles <%= @irregularverb.imp_sub_eles %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="fut_sub" style="position: absolute; width: 360px; height: 90px; left: 320px; top: 350px" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td colspan="2" class="tableheadingstyle">Futuro do Subjuntivo</td>
+    </tr>
+    <tr>
+      <td class="tablestyle">quando eu <%= @irregularverb.fut_sub_eu %></td>
+      <td class="tablestyle">quando nós <%= @irregularverb.fut_sub_nos %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle">quando ele <%= @irregularverb.fut_sub_ele %></td>
+      <td class="tablestyle">quando eles <%= @irregularverb.fut_sub_eles %></td>
+    </tr>
+  </table>
+</div>
+
+<div id="sent" style="position: absolute; width: 460px; height: 490px; left: 680px; top: 50px;" class="divstyle">
+  <table style="width: 100%" class="tablestyle">
+    <tr>
+      <td class="tableheadingstyle">Frases</td>
+    </tr>
+    <tr>
+      <td class="tablestyle"><%= @irregularverb.sent1.html_safe %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle"><%= @irregularverb.sent2.html_safe %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle"><%= @irregularverb.sent3.html_safe %></td>
+    </tr>
+    <tr>
+      <td class="tablestyle"><%= @irregularverb.sent4.html_safe %></td>
+    </tr>
+  </table>
+</div>
