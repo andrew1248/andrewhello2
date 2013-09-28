@@ -3,7 +3,7 @@
 <div id="verb" style="position: absolute; width: 60px; height: 40px; left: 0px; top: 0px" class="divstyle">
   <table style="width: 100%" class="tablestyle">
     <tr>
-      <td class="tableheadingstyle"><%= @irregularverb.verb %></td>
+      <td class="tableheadingstyle"><%= @verb.verb %></td>
     </tr>
   </table>
 </div>
@@ -11,7 +11,7 @@
 <div id="definition" style="position: absolute; width: 500px; height: 40px; left: 70px; top: 0px" class="divstyle">
   <table style="width: 100%" class="tablestyle">
     <tr>
-      <td class="tablestyle"><%= @irregularverb.definition %></td>
+      <td class="tablestyle"><%= @verb.definition %></td>
     </tr>
   </table>
 </div>
@@ -19,7 +19,7 @@
 <div id="gerundio" style="position: absolute; width: 200px; height: 40px; left: 680px; top: 0px" class="divstyle">
   <table style="width: 100%" class="tablestyle">
     <tr>
-      <td class="tableheadingstyle">Gerúndio</td><td class="tablestyle"><%= @irregularverb.gerundio %></td>
+      <td class="tableheadingstyle">Gerúndio</td><td class="tablestyle"><%= @verb.gerundio %></td>
     </tr>
   </table>
 </div>
@@ -27,7 +27,7 @@
 <div id="participio" style="position: absolute; width: 200px; height: 40px; left: 940px; top: 0px" class="divstyle">
   <table style="width: 100%" class="tablestyle">
     <tr>
-      <td class="tableheadingstyle">Particípio</td><td class="tablestyle"><%= @irregularverb.participio %></td>
+      <td class="tableheadingstyle">Particípio</td><td class="tablestyle"><%= @verb.participio %></td>
     </tr>
   </table>
 </div>
@@ -38,12 +38,12 @@
       <td colspan="2" class="tableheadingstyle">Presente do Indicativo</td>
     </tr>
     <tr>
-      <td class="tablestyle">eu <%= @irregularverb.pres_eu.html_safe %></td>
-      <td class="tablestyle">nós <%= @irregularverb.pres_nos.html_safe %></td>
+      <td class="tablestyle">eu <%= @verb.pres_eu.html_safe %></td>
+      <td class="tablestyle">nós <%= @verb.pres_nos.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle">ele <%= @irregularverb.pres_ele.html_safe %></td>
-      <td class="tablestyle">eles <%= @irregularverb.pres_eles.html_safe %></td>
+      <td class="tablestyle">ele <%= @verb.pres_ele.html_safe %></td>
+      <td class="tablestyle">eles <%= @verb.pres_eles.html_safe %></td>
     </tr>
   </table>
 </div>
@@ -54,12 +54,12 @@
       <td colspan="2" class="tableheadingstyle">Pretérito Imperfeito do Indicativo</td>
     </tr>
     <tr>
-      <td class="tablestyle">eu <%= @irregularverb.imp_eu %></td>
-      <td class="tablestyle">nós <%= @irregularverb.imp_nos %></td>
+      <td class="tablestyle">eu <%= @verb.imp_eu %></td>
+      <td class="tablestyle">nós <%= @verb.imp_nos %></td>
     </tr>
     <tr>
-      <td class="tablestyle">ele <%= @irregularverb.imp_ele %></td>
-      <td class="tablestyle">eles <%= @irregularverb.imp_eles %></td>
+      <td class="tablestyle">ele <%= @verb.imp_ele %></td>
+      <td class="tablestyle">eles <%= @verb.imp_eles %></td>
     </tr>
   </table>
 </div>
@@ -70,12 +70,12 @@
       <td colspan="2" class="tableheadingstyle">Pretérito Perfeito do Indicativo</td>
     </tr>
     <tr>
-      <td class="tablestyle">eu <%= @irregularverb.pret_eu %></td>
-      <td class="tablestyle">nós <%= @irregularverb.pret_nos %></td>
+      <td class="tablestyle">eu <%= @verb.pret_eu %></td>
+      <td class="tablestyle">nós <%= @verb.pret_nos %></td>
     </tr>
     <tr>
-      <td class="tablestyle">ele <%= @irregularverb.pret_ele %></td>
-      <td class="tablestyle">eles <%= @irregularverb.pret_eles %></td>
+      <td class="tablestyle">ele <%= @verb.pret_ele %></td>
+      <td class="tablestyle">eles <%= @verb.pret_eles %></td>
     </tr>
   </table>
 </div>
@@ -86,12 +86,12 @@
       <td colspan="2" class="tableheadingstyle">Futuro do Presente do Indicativo</td>
     </tr>
     <tr>
-      <td class="tablestyle">eu <%= @irregularverb.fut_eu %></td>
-      <td class="tablestyle">nós <%= @irregularverb.fut_nos %></td>
+      <td class="tablestyle">eu <%= @verb.fut_eu %></td>
+      <td class="tablestyle">nós <%= @verb.fut_nos %></td>
     </tr>
     <tr>
-      <td class="tablestyle">ele <%= @irregularverb.fut_ele %></td>
-      <td class="tablestyle">eles <%= @irregularverb.fut_eles %></td>
+      <td class="tablestyle">ele <%= @verb.fut_ele %></td>
+      <td class="tablestyle">eles <%= @verb.fut_eles %></td>
     </tr>
   </table>
 </div>
@@ -102,12 +102,12 @@
       <td colspan="2" class="tableheadingstyle">Futuro do Pretérito do Indicativo</td>
     </tr>
     <tr>
-      <td class="tablestyle">eu <%= @irregularverb.cond_eu %></td>
-      <td class="tablestyle">nós <%= @irregularverb.cond_nos %></td>
+      <td class="tablestyle">eu <%= @verb.cond_eu %></td>
+      <td class="tablestyle">nós <%= @verb.cond_nos %></td>
     </tr>
     <tr>
-      <td class="tablestyle">ele <%= @irregularverb.cond_ele %></td>
-      <td class="tablestyle">eles <%= @irregularverb.cond_eles %></td>
+      <td class="tablestyle">ele <%= @verb.cond_ele %></td>
+      <td class="tablestyle">eles <%= @verb.cond_eles %></td>
     </tr>
   </table>
 </div>
@@ -118,12 +118,12 @@
       <td colspan="2" class="tableheadingstyle">Presente do Subjuntivo</td>
     </tr>
     <tr>
-      <td class="tablestyle">que eu <%= @irregularverb.pres_sub_eu %></td>
-      <td class="tablestyle">que nós <%= @irregularverb.pres_sub_nos %></td>
+      <td class="tablestyle">que eu <%= @verb.pres_sub_eu %></td>
+      <td class="tablestyle">que nós <%= @verb.pres_sub_nos %></td>
     </tr>
     <tr>
-      <td class="tablestyle">que ele <%= @irregularverb.pres_sub_ele %></td>
-      <td class="tablestyle">que eles <%= @irregularverb.pres_sub_eles %></td>
+      <td class="tablestyle">que ele <%= @verb.pres_sub_ele %></td>
+      <td class="tablestyle">que eles <%= @verb.pres_sub_eles %></td>
     </tr>
   </table>
 </div>
@@ -134,12 +134,12 @@
       <td colspan="2" class="tableheadingstyle">Pertérito Imperfeito do Subjuntivo</td>
     </tr>
     <tr>
-      <td class="tablestyle">que eu <%= @irregularverb.imp_sub_eu %></td>
-      <td class="tablestyle">que nós <%= @irregularverb.imp_sub_nos %></td>
+      <td class="tablestyle">que eu <%= @verb.imp_sub_eu %></td>
+      <td class="tablestyle">que nós <%= @verb.imp_sub_nos %></td>
     </tr>
     <tr>
-      <td class="tablestyle">que ele <%= @irregularverb.imp_sub_ele %></td>
-      <td class="tablestyle">que eles <%= @irregularverb.imp_sub_eles %></td>
+      <td class="tablestyle">que ele <%= @verb.imp_sub_ele %></td>
+      <td class="tablestyle">que eles <%= @verb.imp_sub_eles %></td>
     </tr>
   </table>
 </div>
@@ -150,12 +150,12 @@
       <td colspan="2" class="tableheadingstyle">Futuro do Subjuntivo</td>
     </tr>
     <tr>
-      <td class="tablestyle">quando eu <%= @irregularverb.fut_sub_eu %></td>
-      <td class="tablestyle">quando nós <%= @irregularverb.fut_sub_nos %></td>
+      <td class="tablestyle">quando eu <%= @verb.fut_sub_eu %></td>
+      <td class="tablestyle">quando nós <%= @verb.fut_sub_nos %></td>
     </tr>
     <tr>
-      <td class="tablestyle">quando ele <%= @irregularverb.fut_sub_ele %></td>
-      <td class="tablestyle">quando eles <%= @irregularverb.fut_sub_eles %></td>
+      <td class="tablestyle">quando ele <%= @verb.fut_sub_ele %></td>
+      <td class="tablestyle">quando eles <%= @verb.fut_sub_eles %></td>
     </tr>
   </table>
 </div>
@@ -166,16 +166,16 @@
       <td class="tableheadingstyle">Frases</td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @irregularverb.sent1.html_safe %></td>
+      <td class="tablestyle"><%= @verb.sent1.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @irregularverb.sent2.html_safe %></td>
+      <td class="tablestyle"><%= @verb.sent2.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @irregularverb.sent3.html_safe %></td>
+      <td class="tablestyle"><%= @verb.sent3.html_safe %></td>
     </tr>
     <tr>
-      <td class="tablestyle"><%= @irregularverb.sent4.html_safe %></td>
+      <td class="tablestyle"><%= @verb.sent4.html_safe %></td>
     </tr>
   </table>
 </div>

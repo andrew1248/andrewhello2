@@ -1,10 +1,10 @@
-<%= form_for(@irregularverb) do |f| %>
-  <% if @irregularverb.errors.any? %>
+<%= form_for(@verb) do |f| %>
+  <% if @verb.errors.any? %>
     <div id="error_explanation">
-      <h2><%= pluralize(@irregularverb.errors.count, "error") %> prohibited this irregularverb from being saved:</h2>
+      <h2><%= pluralize(@verb.errors.count, "error") %> prohibited this verb from being saved:</h2>
 
       <ul>
-      <% @irregularverb.errors.full_messages.each do |msg| %>
+      <% @verb.errors.full_messages.each do |msg| %>
         <li><%= msg %></li>
       <% end %>
       </ul>

@@ -1,82 +1,82 @@
 class IrregularverbsController < ApplicationController
-  # GET /irregularverbs
-  # GET /irregularverbs.json
+  # GET /verbs
+  # GET /verbs.json
   def index
-    @irregularverbs = Irregularverb.all
+    @verbs = Verb.all
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @irregularverbs }
+      format.json { render json: @verbs }
     end
   end
 
-  # GET /irregularverbs/1
-  # GET /irregularverbs/1.json
+  # GET /verbs/1
+  # GET /verbs/1.json
   def show
-    @irregularverb = Irregularverb.find(params[:id])
+    @verb = Verb.find(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
-      format.json { render json: @irregularverb }
+      format.json { render json: @verb }
     end
   end
 
-  # GET /irregularverbs/new
-  # GET /irregularverbs/new.json
+  # GET /verbs/new
+  # GET /verbs/new.json
   def new
-    @irregularverb = Irregularverb.new
+    @verb = Verb.new
 
     respond_to do |format|
       format.html # new.html.erb
-      format.json { render json: @irregularverb }
+      format.json { render json: @verb }
     end
   end
 
-  # GET /irregularverbs/1/edit
+  # GET /verbs/1/edit
   def edit
-    @irregularverb = Irregularverb.find(params[:id])
+    @verb = Verb.find(params[:id])
   end
 
-  # POST /irregularverbs
-  # POST /irregularverbs.json
+  # POST /verbs
+  # POST /verbs.json
   def create
-    @irregularverb = Irregularverb.new(params[:irregularverb])
+    @verb = Verb.new(params[:verb])
 
     respond_to do |format|
-      if @irregularverb.save
-        format.html { redirect_to @irregularverb, notice: 'Irregularverb was successfully created.' }
-        format.json { render json: @irregularverb, status: :created, location: @irregularverb }
+      if @verb.save
+        format.html { redirect_to @verb, notice: 'Verb was successfully created.' }
+        format.json { render json: @verb, status: :created, location: @verb }
       else
         format.html { render action: "new" }
-        format.json { render json: @irregularverb.errors, status: :unprocessable_entity }
+        format.json { render json: @verb.errors, status: :unprocessable_entity }
       end
     end
   end
 
-  # PUT /irregularverbs/1
-  # PUT /irregularverbs/1.json
+  # PUT /verbs/1
+  # PUT /verbs/1.json
   def update
-    @irregularverb = Irregularverb.find(params[:id])
+    @verb = Verb.find(params[:id])
 
     respond_to do |format|
-      if @irregularverb.update_attributes(params[:irregularverb])
-        format.html { redirect_to @irregularverb, notice: 'Irregularverb was successfully updated.' }
+      if @verb.update_attributes(params[:verb])
+        format.html { redirect_to @verb, notice: 'Verb was successfully updated.' }
         format.json { head :no_content }
       else
         format.html { render action: "edit" }
-        format.json { render json: @irregularverb.errors, status: :unprocessable_entity }
+        format.json { render json: @verb.errors, status: :unprocessable_entity }
       end
     end
   end
 
-  # DELETE /irregularverbs/1
-  # DELETE /irregularverbs/1.json
+  # DELETE /verbs/1
+  # DELETE /verbs/1.json
   def destroy
-    @irregularverb = Irregularverb.find(params[:id])
-    @irregularverb.destroy
+    @verb = Verb.find(params[:id])
+    @verb.destroy
 
     respond_to do |format|
-      format.html { redirect_to irregularverbs_url }
+      format.html { redirect_to verbs_url }
       format.json { head :no_content }
     end
   end
