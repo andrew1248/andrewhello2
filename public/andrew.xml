@@ -20,14 +20,17 @@
   <product EntryID="338" Verb="medir"/>
   <product EntryID="366" Verb="odiar"/>
   <product EntryID="371" Verb="ouvir"/>
+  <product EntryID="376" Verb="passear"/>
   <product EntryID="379" Verb="pedir"/>
   <product EntryID="385" Verb="perder"/>
   <product EntryID="397" Verb="poder"/>
   <product EntryID="398" Verb="pôr"/>
+  <product EntryID="403" Verb="preferir"/>
   <product EntryID="418" Verb="querer"/>
   <product EntryID="439" Verb="saber"/>
   <product EntryID="441" Verb="sair"/>
   <product EntryID="444" Verb="seguir"/>
+  <product EntryID="446" Verb="sentir"/>
   <product EntryID="447" Verb="ser"/>
   <product EntryID="467" Verb="ter"/>
   <product EntryID="480" Verb="trazer"/>
