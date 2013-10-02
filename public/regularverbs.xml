@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+  <product EntryID="107" Verb="caber"/>
+  <product EntryID="109" Verb="cair"/>
+  <product EntryID="133" Verb="cobrir"/>
+  <product EntryID="156" Verb="construir"/>
+  <product EntryID="172" Verb="crer"/>
+  <product EntryID="186" Verb="dar"/>
+  <product EntryID="211" Verb="divertir"/>
+  <product EntryID="214" Verb="dizer"/>
+  <product EntryID="218" Verb="dormir"/>
+  <product EntryID="260" Verb="estar"/>
+  <product EntryID="275" Verb="fazer"/>
+  <product EntryID="281" Verb="ficar"/>
+  <product EntryID="301" Verb="haver"/>
+  <product EntryID="312" Verb="ir"/>
+  <product EntryID="324" Verb="ler"/>
+  <product EntryID="338" Verb="medir"/>
+  <product EntryID="366" Verb="odiar"/>
+  <product EntryID="371" Verb="ouvir"/>
+  <product EntryID="376" Verb="passear"/>
+  <product EntryID="379" Verb="pedir"/>
+  <product EntryID="385" Verb="perder"/>
+  <product EntryID="397" Verb="poder"/>
+  <product EntryID="398" Verb="pôr"/>
+  <product EntryID="403" Verb="preferir"/>
+  <product EntryID="418" Verb="querer"/>
+  <product EntryID="439" Verb="saber"/>
+  <product EntryID="441" Verb="sair"/>
+  <product EntryID="444" Verb="seguir"/>
+  <product EntryID="446" Verb="sentir"/>
+  <product EntryID="447" Verb="ser"/>
+  <product EntryID="467" Verb="ter"/>
+  <product EntryID="480" Verb="trazer"/>
+  <product EntryID="490" Verb="ver"/>
+  <product EntryID="494" Verb="vir"/>
+  <product EntryID="495" Verb="virar"/>
+  <product EntryID="496" Verb="visitar"/>
+
+</root>

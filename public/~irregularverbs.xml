@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+<product EntryID="107" Verb="caber"/>
+<product EntryID="186" Verb="caber"/>
+<product EntryID="214" Verb="dizer"/>
+<product EntryID="260" Verb="estar"/>
+<product EntryID="275" Verb="fazer"/>
+<product EntryID="301" Verb="haver"/>
+<product EntryID="312" Verb="ir"/>
+<product EntryID="324" Verb="ler"/>
+<product EntryID="366" Verb="odiar"/>
+<product EntryID="371" Verb="ouvir"/>
+<product EntryID="379" Verb="pedir"/>
+<product EntryID="385" Verb="perder"/>
+<product EntryID="397" Verb="poder"/>
+<product EntryID="901" Verb="polir"/>
+<product EntryID="398" Verb="pôr"/>
+<product EntryID="902" Verb="prover"/>
+<product EntryID="418" Verb="querer"/>
+<product EntryID="903" Verb="requerer"/>
+<product EntryID="904" Verb="rir"/>
+<product EntryID="439" Verb="saber"/>
+<product EntryID="447" Verb="ser"/>
+<product EntryID="467" Verb="ter"/>
+<product EntryID="480" Verb="trazer"/>
+<product EntryID="905" Verb="valer"/>
+<product EntryID="490" Verb="ver"/>
+<product EntryID="494" Verb="vir"/>
+</root>
+
+
