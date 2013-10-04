@@ -2,7 +2,7 @@
 
 <root>
 
-<product EntryID="107" Verb="caber"/>
+<product EntryID="107" Verb="caber"></product>
 <product EntryID="186" Verb="caber"/>
 <product EntryID="214" Verb="dizer"/>
 <product EntryID="260" Verb="estar"/>

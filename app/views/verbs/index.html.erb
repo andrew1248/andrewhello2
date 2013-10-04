@@ -48,56 +48,56 @@
     <th></th>
   </tr>
 
-<% @verbs.each do |verb| %>
-  <tr>
-    <td><%= verb.entry_id %></td>
-    <td><%= verb.verb %></td>
-    <td><%= verb.definition %></td>
-    <td><%= verb.participio %></td>
-    <td><%= verb.gerundio %></td>
-    <td><%= verb.pres_eu %></td>
-    <td><%= verb.pres_ele %></td>
-    <td><%= verb.pres_nos %></td>
-    <td><%= verb.pres_eles %></td>
-    <td><%= verb.pret_eu %></td>
-    <td><%= verb.pret_ele %></td>
-    <td><%= verb.pret_nos %></td>
-    <td><%= verb.pret_eles %></td>
-    <td><%= verb.imp_eu %></td>
-    <td><%= verb.imp_ele %></td>
-    <td><%= verb.imp_nos %></td>
-    <td><%= verb.imp_eles %></td>
-    <td><%= verb.fut_eu %></td>
-    <td><%= verb.fut_ele %></td>
-    <td><%= verb.fut_nos %></td>
-    <td><%= verb.fut_eles %></td>
-    <td><%= verb.cond_eu %></td>
-    <td><%= verb.cond_ele %></td>
-    <td><%= verb.cond_nos %></td>
-    <td><%= verb.cond_eles %></td>
-    <td><%= verb.pres_sub_eu %></td>
-    <td><%= verb.pres_sub_ele %></td>
-    <td><%= verb.pres_sub_nos %></td>
-    <td><%= verb.pres_sub_eles %></td>
-    <td><%= verb.imp_sub_eu %></td>
-    <td><%= verb.imp_sub_ele %></td>
-    <td><%= verb.imp_sub_nos %></td>
-    <td><%= verb.imp_sub_eles %></td>
-    <td><%= verb.fut_sub_eu %></td>
-    <td><%= verb.fut_sub_ele %></td>
-    <td><%= verb.fut_sub_nos %></td>
-    <td><%= verb.fut_sub_eles %></td>
-    <td><%= verb.sent1 %></td>
-    <td><%= verb.sent2 %></td>
-    <td><%= verb.sent3 %></td>
-    <td><%= verb.sent4 %></td>
-    <td><%= link_to 'Show', verb %></td>
-    <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
-    <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-  </tr>
-<% end %>
+  <% @verbs.each do |verb| %>
+      <tr>
+        <td><%= verb.entry_id %></td>
+        <td><%= verb.verb %></td>
+        <td><%= verb.definition %></td>
+        <td><%= verb.participio %></td>
+        <td><%= verb.gerundio %></td>
+        <td><%= verb.pres_eu %></td>
+        <td><%= verb.pres_ele %></td>
+        <td><%= verb.pres_nos %></td>
+        <td><%= verb.pres_eles %></td>
+        <td><%= verb.pret_eu %></td>
+        <td><%= verb.pret_ele %></td>
+        <td><%= verb.pret_nos %></td>
+        <td><%= verb.pret_eles %></td>
+        <td><%= verb.imp_eu %></td>
+        <td><%= verb.imp_ele %></td>
+        <td><%= verb.imp_nos %></td>
+        <td><%= verb.imp_eles %></td>
+        <td><%= verb.fut_eu %></td>
+        <td><%= verb.fut_ele %></td>
+        <td><%= verb.fut_nos %></td>
+        <td><%= verb.fut_eles %></td>
+        <td><%= verb.cond_eu %></td>
+        <td><%= verb.cond_ele %></td>
+        <td><%= verb.cond_nos %></td>
+        <td><%= verb.cond_eles %></td>
+        <td><%= verb.pres_sub_eu %></td>
+        <td><%= verb.pres_sub_ele %></td>
+        <td><%= verb.pres_sub_nos %></td>
+        <td><%= verb.pres_sub_eles %></td>
+        <td><%= verb.imp_sub_eu %></td>
+        <td><%= verb.imp_sub_ele %></td>
+        <td><%= verb.imp_sub_nos %></td>
+        <td><%= verb.imp_sub_eles %></td>
+        <td><%= verb.fut_sub_eu %></td>
+        <td><%= verb.fut_sub_ele %></td>
+        <td><%= verb.fut_sub_nos %></td>
+        <td><%= verb.fut_sub_eles %></td>
+        <td><%= verb.sent1 %></td>
+        <td><%= verb.sent2 %></td>
+        <td><%= verb.sent3 %></td>
+        <td><%= verb.sent4 %></td>
+        <td><%= link_to 'Show', verb %></td>
+        <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
+        <td><%= link_to 'Destroy', verb, method: :delete, data: {confirm: 'Are you sure?'} %></td>
+      </tr>
+  <% end %>
 </table>
 
-<br />
+<br/>
 
 <%= link_to 'New Verb', new_verb_path %>
