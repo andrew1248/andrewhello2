@@ -1,9 +1,16 @@
 Verbapp::Application.routes.draw do
-  get "verbosirregulares/conjugacao_verbal"
+  get "verbosirregulares/verbos_irregulares_ar"
+  get "verbosirregulares/verbos_irregulares_er"
+  get "verbosirregulares/verbos_irregulares_ir"
+  get "verbosirregulares/verbosauxiliares"
+
+  get "verbosregulares/verbos_regulares_ar"
+  get "verbosregulares/verbos_regulares_er"
+  get "verbosregulares/verbos_regulares_ir"
 
   get "irregularverbs/index"
-  get "verbos/conjugacao_verbal"
-  get "irregularverbs/conjugacao_verbal"
+  get "verbosregulares/verbos_irregulares_er"
+  get "irregularverbs/conjugacao_verbos_ar"
 
   resources :verbs
   resources :irregularverbs

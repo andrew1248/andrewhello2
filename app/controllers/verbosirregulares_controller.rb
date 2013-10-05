@@ -1,4 +1,4 @@
 class VerbosirregularesController < ApplicationController
-  def conjugacao_verbal
+  def verbos_irregulares_er
   end
 end

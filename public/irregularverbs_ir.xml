@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+<product EntryID="312" Verb="ir"/>
+<product EntryID="338" Verb="medir"/>
+<product EntryID="371" Verb="ouvir"/>
+<product EntryID="379" Verb="pedir"/>
+<product EntryID="433" Verb="rir"/>
+<product EntryID="494" Verb="vir"/>
+</root>

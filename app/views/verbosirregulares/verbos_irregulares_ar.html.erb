@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+
+  <title>Brasil Home Page</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+  <script type="text/javascript">
+
+      $(document).ready(function () {
+
+          $.ajax({
+              type: "GET",
+              url: "/irregularverbs_ar.xml",
+              dataType: "xml",
+
+              success: function (xml) {
+                  var select = $('#mySelect');
+
+                  $(xml).find('product').each(function () {
+                      var title = $(this).attr('Verb');
+                      var value = $(this).attr('EntryID');
+                      select.append("<option value='" + value + "'>" + title + "</option>");
+                  });
+
+                  select.children(":first").attr("selected", true);
+              }
+
+          });
+
+          $("#quote").load("/start_page.htm");
+
+          $("#mySelect").change(function () {
+              if ($('#mySelect').val() == "irregularverbs") {
+                  $("#quote").load("/start_page.htm");
+              }
+              if ($('#mySelect').val() != "irregularverbs") {
+                  $("#quote").load("/irregularverbs/" + $('#mySelect').val());
+              }
+          });
+
+      });
+
+  </script>
+
+  <style type="text/css" class="style3">
+      <!--
+      .style3 {
+          color: #000000;
+          font-family: Georgia, "Times New Roman", Times, serif;
+          font-size: 14pt;
+      }
+
+      .auto-style1 {
+          color: #0000FF;
+          border: 1px solid #FFCCC0;
+      }
+
+      -->
+  </style>
+
+</head>
+
+<body bgcolor="#ffffff">
+
+<div style="line-height: 12px; vertical-align: middle; position:absolute; width: 920px; height: 40px; z-index:1; left:3px; top: 0px; border: 1px solid #ffccc0; font-family: arial;" class="style3">
+  <br>Conjugação verbal (primeira, segunda, e terceira conjugações - verbos regulares e irregulares)
+</div>
+
+<div style="line-height: 12px; vertical-align: middle; position:absolute; width: 430px; height: 29px; z-index:1; left:851px; top:11px;
+        text-align: right; border: 1px solid #ffccc0; font-family: arial;"
+     class="style3">
+  <script language="JavaScript1.2">
+      var months = new Array(13);
+      months [1] = "janeiro";
+      months [2] = "fevereiro";
+      months [3] = "março";
+      months [4] = "abril";
+      months [5] = "maio";
+      months [6] = "junho";
+      months [7] = "julho";
+      months [8] = "agosto";
+      months [9] = "setembro";
+      months [10] = "outubro";
+      months [11] = "novembro";
+      months [12] = "dezembro";
+      var dayName = new Array(7);
+      dayName [0] = "domingo";
+      dayName [1] = "segunda-feira";
+      dayName [2] = "terça-feira";
+      dayName [3] = "quarta-feira";
+      dayName [4] = "quinta-feira";
+      dayName [5] = "sexta-feira";
+      dayName [6] = "sábado";
+      var time = new Date();
+      var lmonth = months[time.getMonth() + 1];
+      var lday = dayName[time.getDay()];
+      var date = time.getDate();
+      var year = time.getYear();
+      if (year < 2000) {
+          year = year + 1900;
+      }
+      document.write("<br>hoje é " + lday + " " + date + " de " + lmonth + " de " + year);
+  </script>
+</div>
+
+<div id="quote" style="z-index:0; position:absolute; left:145px; top:50px; background-color:#ffffff;
+        layer-background-color: #00FF00; border: 1px solid #ffccc0; width: 1140px; height: 540px;"></div>
+
+<div style="z-index:1; position: absolute; width: 137px; height: 540px; left:3px; top: 50px; border: 1px solid #000000;">
+  <div id="andrew1">
+    <form>
+      <select size="30" id="mySelect">
+        <option value="irregularverbs">Escolha um verbo</option>
+      </select>
+    </form>
+  </div>
+</div>
+
+</body>
+
+</html>
