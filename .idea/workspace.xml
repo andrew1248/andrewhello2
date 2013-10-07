@@ -17,10 +17,6 @@
       <change type="DELETED" beforePath="C:\RailsApplications\andrewhello2\db\schema (from Dianne-PC).rb" afterPath="" />
       <change type="DELETED" beforePath="C:\RailsApplications\andrewhello2\public\irregularverbs.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\RailsApplications\andrewhello2\public\regularverbs.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/irregularverbs_ar.xml" afterPath="$PROJECT_DIR$/public/irregularverbs_ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/irregularverbs_ir.xml" afterPath="$PROJECT_DIR$/public/irregularverbs_ir.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/regularverbs_ar.xml" afterPath="$PROJECT_DIR$/public/regularverbs_ar.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/start_page.htm" afterPath="$PROJECT_DIR$/public/start_page.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb" />
@@ -29,11 +25,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/verbs.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/verbs.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="andrewhello2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381131395253" ignored="false" />
+    <file path="/Dummy.txt" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381135043387" ignored="false" />
     <file path="/index.html.erb" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1380952496058" ignored="false" />
     <file path="/temp.rb" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1380949363044" ignored="false" />
     <file path="/routes.rb" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1380951791653" ignored="false" />
@@ -42,6 +39,9 @@
     <file path="/verbos_regulares_ar.html.erb" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381130729521" ignored="false" />
     <file path="/verbos_regulares_er.html.erb" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381130755533" ignored="false" />
     <file path="/verbos_regulares_ir.html.erb" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381130775157" ignored="false" />
+    <file path="/start_page.htm" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381133957007" ignored="false" />
+    <file path="/verbs.css.scss" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381133275115" ignored="false" />
+    <file path="/verbos_irregulares_ar.html.erb" changelist="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" time="1381134701115" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +58,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="start_page.htm" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/start_page.htm">
+      <file leaf-file-name="verbos_regulares_ar.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="668" selection-end="668" vertical-scroll-proportion="0.68904597">
+            <state line="77" column="6" selection-start="2041" selection-end="2041" vertical-scroll-proportion="-23.636364">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbos_regulares_er.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="6" selection-start="2040" selection-end="2040" vertical-scroll-proportion="-17.0">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbos_regulares_ir.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="6" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.78018576">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,22 +112,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/irregularverbs_er.xml" />
         <option value="$PROJECT_DIR$/app/views/verbosirregulares/conjugacao_verbos_ir.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbos/verbos_regulares_ar.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/verbosregulares_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/verbs.css.scss" />
+        <option value="$PROJECT_DIR$/public/start_page.htm" />
         <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb" />
-        <option value="$PROJECT_DIR$/public/start_page.htm" />
       </list>
     </option>
   </component>
@@ -145,8 +170,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,28 +318,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="irregularverbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="andrewhello2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="andrewhello2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -353,8 +354,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="andrewhello2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="andrewhello2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -623,11 +644,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31742424" sideWeight="0.5901116" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3219697" sideWeight="0.5917065" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40988836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40829346" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -696,94 +717,110 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/verbosirregulares_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/verbosregulares.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/verbosirregulares.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="42" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/irregularverb.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/verbs.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.064891845" />
+        <state line="21" column="0" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+    <entry file="file://$PROJECT_DIR$/public/start_page.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="19" selection-start="432" selection-end="432" vertical-scroll-proportion="0.34608984" />
+        <state line="12" column="57" selection-start="445" selection-end="445" vertical-scroll-proportion="0.27561837" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/irregularverbs/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/verbs/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="350" selection-end="350" vertical-scroll-proportion="0.45424291" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="6" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="6" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="6" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="6" selection-start="1975" selection-end="1975" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/regularverbs_ir.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.108153075" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="390" selection-end="622" vertical-scroll-proportion="0.18374558" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.70715475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbs/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.3409894" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="6" selection-start="2046" selection-end="2046" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="6" selection-start="2047" selection-end="2047" vertical-scroll-proportion="-10.545455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="6" selection-start="2033" selection-end="2033" vertical-scroll-proportion="0.31606218" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="57" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.45423144">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="57" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.3747841">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="57" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.5630397">
-          <folding />
+        <state line="77" column="6" selection-start="2041" selection-end="2041" vertical-scroll-proportion="-23.636364">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/start_page.htm">
+    <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="668" selection-end="668" vertical-scroll-proportion="0.68904597">
+        <state line="77" column="6" selection-start="2040" selection-end="2040" vertical-scroll-proportion="-17.0">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="6" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.78018576">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
