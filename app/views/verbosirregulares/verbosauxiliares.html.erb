@@ -35,11 +35,11 @@
           $("#quote").load("/start_page.htm");
 
           $("#mySelect").change(function () {
-              if ($('#mySelect').val() == "irregularverbs") {
+              if ($('#mySelect').val() == "verbs") {
                   $("#quote").load("/start_page.htm");
               }
-              if ($('#mySelect').val() != "irregularverbs") {
-                  $("#quote").load("/irregularverbs/" + $('#mySelect').val());
+              if ($('#mySelect').val() != "verbs") {
+                  $("#quote").load("/verbs/" + $('#mySelect').val());
               }
           });
 
@@ -50,15 +50,17 @@
   <style type="text/css" class="style3">
       <!--
       .style3 {
-          color: #000000;
-          font-family: Georgia, "Times New Roman", Times, serif;
-          font-size: 14pt;
-      }
-
-      .auto-style1 {
-          color: #0000FF;
-          border: 1px solid #FFCCC0;
-      }
+    border-style: none;
+    border-width: 1px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    background-color: #FFFFFF;
+    font-style: italic;
+    text-align: left;
+    vertical-align: middle;
+    line-height: 12px;
+  }
 
       -->
   </style>
@@ -67,13 +69,10 @@
 
 <body bgcolor="#ffffff">
 
-<div style="line-height: 12px; vertical-align: middle; position:absolute; width: 920px; height: 40px; z-index:1; left:3px; top: 0px; border: 1px solid #ffccc0; font-family: arial;" class="style3">
-  <br>Conjugação verbal (primeira, segunda, e terceira conjugações - verbos regulares e irregulares)
-</div>
+<div style="position:absolute; width: 920px; height: 40px; z-index:1; left:3px; top: 0px;" class="style3">
+  <br>Conjugação dos verbos auxiliares</div>
 
-<div style="line-height: 12px; vertical-align: middle; position:absolute; width: 430px; height: 29px; z-index:1; left:851px; top:11px;
-        text-align: right; border: 1px solid #ffccc0; font-family: arial;"
-     class="style3">
+<div style="position:absolute; width: 400px; height: 40px; z-index:1; left:923px; top:0px;" class="style3">
   <script language="JavaScript1.2">
       var months = new Array(13);
       months [1] = "janeiro";
@@ -108,18 +107,31 @@
   </script>
 </div>
 
-<div id="quote" style="z-index:0; position:absolute; left:145px; top:50px; background-color:#ffffff;
-        layer-background-color: #00FF00; border: 1px solid #ffccc0; width: 1140px; height: 540px;"></div>
+<div id="quote" 
+  
+  style="z-index:0; position:absolute; left:145px; top:50px; background-color:#FFFFFF;
+        layer-background-color: #00FF00; border: 1px solid #ffccc0; width: 1140px; height: 540px;">
+        
+        
+</div>        
 
-<div style="z-index:1; position: absolute; width: 137px; height: 540px; left:3px; top: 50px; border: 1px solid #000000;">
-  <div id="andrew1">
-    <form>
-      <select size="30" id="mySelect">
-        <option value="irregularverbs">Escolha um verbo</option>
+    
+    
+  <div id="layer1" style="border-style: solid; border-width: 1px; position: absolute; width: 130px; height: 496px; z-index: 1; left: 10px; top: 50px">
+
+    
+    
+      <select size="30" id="mySelect" 
+      
+      
+      style="width: 125px; font-family: Arial, Helvetica, sans-serif; font-size: small;">
+        <option value="verbs">Escolha um verbo</option>
       </select>
-    </form>
-  </div>
+      
 </div>
+
+
+
 
 </body>
 
