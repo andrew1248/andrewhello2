@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <root>
+<product EntryID="6" Verb="abrir"/>
 <product EntryID="3750" Verb="partir"/>
 </root>
