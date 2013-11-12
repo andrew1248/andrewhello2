@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <root>
-<product EntryID="990" Verb="beber"/>
-<product EntryID="138" Verb="comer"/>
-<product EntryID="151" Verb="conhecer"/>
-<product EntryID="167" Verb="correr"/>
-<product EntryID="489" Verb="vender"/>
-<product EntryID="497" Verb="viver"/>
+  <product EntryID="990" Verb="beber"/>
+  <product EntryID="138" Verb="comer"/>
+  <product EntryID="151" Verb="conhecer"/>
+  <product EntryID="167" Verb="correr"/>
+  <product EntryID="489" Verb="vender"/>
+  <product EntryID="497" Verb="viver"/>
 </root>
