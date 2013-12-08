@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" compressed="false" hash="2093352276" />
+  <component name="DataSourceManagerImpl" format="xml" hash="1569497836">
+    <data-source source="LOCAL" name="Rails andrewhello2: development" uuid="6a73db2c-762b-46c7-9f65-91c9a47ceaab">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:verbapp_development</jdbc-url>
+      <user-name>andrewhello2</user-name>
+      <user-password>dfccdfdfdfc4</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine40/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails andrewhello2: test" uuid="0b8117c8-0628-4164-b97d-a24457798f0b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:verbapp_test</jdbc-url>
+      <user-name>andrewhello2</user-name>
+      <user-password>dfccdfdfdfc4</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine40/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails andrewhello2: production" uuid="9d0cbc06-8183-454f-97ae-fcb26c0706cb">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:verbapp_production</jdbc-url>
+      <user-name>andrewhello2</user-name>
+      <user-password>dfccdfdfdfc4</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine40/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
 </project>
 
