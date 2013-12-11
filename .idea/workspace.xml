@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76d311f7-1f9b-4df6-9b6a-4f9dcea68cd9" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\RailsApplications\andrewhello2\app\views\home\andrew_test2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\RailsApplications\andrewhello2\public\start_page_ar_test.htm" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/start_page_ar.htm" afterPath="$PROJECT_DIR$/public/start_page_ar.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb" afterPath="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="andrewhello2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +16,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/andrewhello2@Development__andrewhello2.coverage" NAME="Development: andrewhello2 Coverage Results" MODIFIED="1386741922364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="andrewhello2" />
+    <SUITE FILE_PATH="coverage/andrewhello2@Development__andrewhello2.coverage" NAME="Development: andrewhello2 Coverage Results" MODIFIED="1386748557923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="andrewhello2" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -38,10 +30,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="verbos_irregulares_ar.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="verbos_irregulares_ar.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1898">
+            <state line="16" column="1" selection-start="322" selection-end="322" vertical-scroll-proportion="-2.1363637" vertical-offset="161" max-vertical-offset="1898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbos_irregulares_er.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="37" selection-start="385" selection-end="385" vertical-scroll-proportion="-0.59090906" vertical-offset="208" max-vertical-offset="1898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbos_irregulares_ir.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="44" selection-start="392" selection-end="392" vertical-scroll-proportion="-10.045455" vertical-offset="0" max-vertical-offset="1898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbosauxiliares.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1885">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbos_regulares_ar.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="42" selection-start="944" selection-end="944" vertical-scroll-proportion="-20.09091" vertical-offset="0" max-vertical-offset="1898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbos_regulares_er.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="42" selection-start="944" selection-end="944" vertical-scroll-proportion="-10.636364" vertical-offset="208" max-vertical-offset="1898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verbos_regulares_ir.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="50" selection-start="1102" selection-end="1102" vertical-scroll-proportion="-22.454546" vertical-offset="0" max-vertical-offset="1898">
               <folding />
             </state>
           </provider>
@@ -85,11 +131,11 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/public/start_page_ar.htm" />
         <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb" />
         <option value="$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb" />
       </list>
     </option>
   </component>
@@ -148,56 +194,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Tests">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="andrewhello2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="andrewhello2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="test">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="fixtures">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Changed Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="andrewhello2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -450,6 +446,56 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="andrewhello2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="andrewhello2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="fixtures">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="andrewhello2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -638,12 +684,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842416" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854864" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39911634" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -667,188 +713,62 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <folding>
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <folding>
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <folding>
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <folding>
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <folding>
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <folding>
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/irregularverbs_ir.xml">
@@ -877,11 +797,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/verbosregulares_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
@@ -920,9 +835,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/verbs_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1157">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1157" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/irregularverbs/show.html.erb">
@@ -932,9 +845,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbs/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2964">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2964" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/irregularverbs/_form.html.erb">
@@ -966,243 +877,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbs/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.051495016" vertical-offset="31" max-vertical-offset="1417">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.051495016" vertical-offset="31" max-vertical-offset="1417" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="6" selection-start="2466" selection-end="2466" vertical-scroll-proportion="-17.136364" vertical-offset="0" max-vertical-offset="455">
-          <folding>
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386576094600" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="29" column="6" selection-start="2466" selection-end="2466" vertical-scroll-proportion="-17.136364" vertical-offset="0" max-vertical-offset="455" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="73" selection-start="266" selection-end="266" vertical-scroll-proportion="0.17275748" vertical-offset="0" max-vertical-offset="602">
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="8" column="73" selection-start="266" selection-end="266" vertical-scroll-proportion="0.17275748" vertical-offset="0" max-vertical-offset="602" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/start_page_ar.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1820">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#table#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1820" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/irregularverb.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/verbosirregulares.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/verbs.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbs/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2457">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ar.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="42" selection-start="0" selection-end="3997" vertical-scroll-proportion="-10.045455" vertical-offset="0" max-vertical-offset="1898">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="34" column="42" selection-start="944" selection-end="944" vertical-scroll-proportion="-20.09091" vertical-offset="0" max-vertical-offset="1898">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_er.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="42" selection-start="0" selection-end="3997" vertical-scroll-proportion="-10.045455" vertical-offset="0" max-vertical-offset="1898">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="34" column="42" selection-start="944" selection-end="944" vertical-scroll-proportion="-10.636364" vertical-offset="208" max-vertical-offset="1898">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbosregulares/verbos_regulares_ir.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="42" selection-start="390" selection-end="390" vertical-scroll-proportion="0.37521222" vertical-offset="0" max-vertical-offset="1898">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="37" selection-start="385" selection-end="385" vertical-scroll-proportion="-10.045455" vertical-offset="0" max-vertical-offset="1898">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="44" selection-start="392" selection-end="392" vertical-scroll-proportion="0.37521222" vertical-offset="0" max-vertical-offset="1898">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="38" column="50" selection-start="1102" selection-end="1102" vertical-scroll-proportion="-22.454546" vertical-offset="0" max-vertical-offset="1898">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ar.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1898">
+        <state line="16" column="1" selection-start="322" selection-end="322" vertical-scroll-proportion="-2.1363637" vertical-offset="161" max-vertical-offset="1898">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_er.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="37" selection-start="385" selection-end="385" vertical-scroll-proportion="-0.59090906" vertical-offset="208" max-vertical-offset="1898">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbos_irregulares_ir.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="44" selection-start="392" selection-end="392" vertical-scroll-proportion="-10.045455" vertical-offset="0" max-vertical-offset="1898">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/verbosirregulares/verbosauxiliares.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1885">
           <folding />
         </state>
       </provider>

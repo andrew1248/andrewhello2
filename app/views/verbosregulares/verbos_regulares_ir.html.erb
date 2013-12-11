@@ -32,11 +32,11 @@
 
           });
 
-          $("#quote").load("/start_page.htm");
+          $("#quote").load("/start_page_ir.htm");
 
           $("#mySelect").change(function () {
               if ($('#mySelect').val() == "verbs") {
-                  $("#quote").load("/start_page.htm");
+                  $("#quote").load("/start_page_ir.htm");
               }
               if ($('#mySelect').val() != "verbs") {
                   $("#quote").load("/verbs/" + $('#mySelect').val());
