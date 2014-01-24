@@ -1,0 +1,15 @@
+2014-01-11 19:40:14: Remote Computer has registered but is not reachable directly, trying through forwarder andrew-pc(192.168.1.68:33333)
+2014-01-11 19:40:23: -- andrewhello2: ANALYSIS started by Analyze And Sync All on 'ANDREW-PC' (GoodSync 9.6.2.5)
+2014-01-11 19:40:23: C:\RailsApplications\andrewhello2 (C:/RailsApplications/andrewhello2) =PropDels=> gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2, CopyCreateTime
+2014-01-11 19:40:23: L: Files: 1,134 (excluded 0). Folders: 431 (excluded 1). C: NTFS, Free: 21.5 GB, Total: 104 GB
+2014-01-11 19:40:58: R: Files: 1,134 (excluded 0). Folders: 431 (excluded 1). KFTT /dev/fuse FUSE, Free: 15.9 GB, Total: 26.9 GB
+2014-01-11 19:40:58: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-01-11 19:40:58: Left to Right: Copy File: 1 
+2014-01-11 19:40:58: -- Analysis Completed. Time 00:00:45, Speed: 34 files/s
+2014-01-11 19:40:58: == andrewhello2: SYNC started by Analyze And Sync All on 'ANDREW-PC'
+2014-01-11 19:40:58: C:\RailsApplications\andrewhello2 (C:/RailsApplications/andrewhello2) =PropDels=> gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2, CopyCreateTime
+2014-01-11 19:40:58: Copy Over 'C:/RailsApplications/andrewhello2/.idea/workspace.xml' -> 'gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2/.idea/workspace.xml'
+2014-01-11 19:40:59: Save State File gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2/_gsdata_/_file_state_v4._gs
+2014-01-11 19:40:59: Items Synced OK: 1, Errors: 0
+2014-01-11 19:40:59: == Sync Completed. Time: 00:00:01, Speed: 
+2014-01-11 19:40:59: 

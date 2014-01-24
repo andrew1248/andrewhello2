@@ -1,0 +1,15 @@
+2014-01-13 23:24:45: kftt.andrew1248.goodsync is on local network, trying direct connect at 192.168.1.32:33333
+2014-01-13 23:24:45: -- andrewhello2: ANALYSIS started by Analyze And Sync All on 'ANDREW-PC' (GoodSync 9.6.2.5)
+2014-01-13 23:24:45: C:\RailsApplications\andrewhello2 (C:/RailsApplications/andrewhello2) =PropDels=> gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2, CopyCreateTime
+2014-01-13 23:24:45: L: Files: 1,135 (excluded 0). Folders: 431 (excluded 1). C: NTFS, Free: 21.6 GB, Total: 104 GB
+2014-01-13 23:24:51: R: Files: 1,135 (excluded 0). Folders: 431 (excluded 1). KFTT /dev/fuse FUSE, Free: 15.8 GB, Total: 26.9 GB
+2014-01-13 23:24:51: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2014-01-13 23:24:51: Left to Right: Copy File: 1 
+2014-01-13 23:24:51: -- Analysis Completed. Time 00:00:06, Speed: 261 files/s
+2014-01-13 23:24:51: == andrewhello2: SYNC started by Analyze And Sync All on 'ANDREW-PC'
+2014-01-13 23:24:51: C:\RailsApplications\andrewhello2 (C:/RailsApplications/andrewhello2) =PropDels=> gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2, CopyCreateTime
+2014-01-13 23:24:53: Copy Over 'C:/RailsApplications/andrewhello2/log/development.log' -> 'gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2/log/development.log'
+2014-01-13 23:24:54: Save State File gstp://kftt.andrew1248.goodsync/home://S0/Dropbox Folders/andrewhello2/_gsdata_/_file_state_v4._gs
+2014-01-13 23:24:54: Items Synced OK: 1, Errors: 0
+2014-01-13 23:24:54: == Sync Completed. Time: 00:00:03, Speed: 7.15 MB/s (3.71 MB/s)
+2014-01-13 23:24:54: 
