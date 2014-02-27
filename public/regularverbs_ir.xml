@@ -3,4 +3,5 @@
 <root>
   <product EntryID="6" Verb="abrir"/>
   <product EntryID="3750" Verb="partir"/>
+  <product EntryID="3751" Verb="repetir"/>
 </root>

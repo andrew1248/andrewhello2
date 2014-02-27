@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Verbapp</title>
+  <%= stylesheet_link_tag "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+  <style type="text/css">
+  .newStyle1 {
+    background-image: url('bandeiranacional.jpg');
+    background-repeat: repeat-y;
+  }
+  .newStyle2 {
+    background-image: url('american_flag.gif');
+    background-repeat: repeat-y;
+  }
+</style>
+</head>
+
+<body>
+<%= yield %>
+
+<div id="layer1" class="newStyle1" 
+  style="position: absolute; width: 500px; height: 800px; z-index: 1; left: 0px; top: 0px">
+</div>
+<div id="layer2" class="newStyle2" 
+  style="position: absolute; width: 500px; height: 800px; z-index: 1; left: 1155px; top: 0px">
+</div>
+
+</body>
+</html>

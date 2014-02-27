@@ -11,3 +11,11 @@
  *= require_self
  *= require_tree .
  */
+div#bandeiranacional {
+    background-image: url('/bandeiranacional.jpg');
+    background-repeat: repeat-y;
+  }
+div#american_flag {
+    background-image: url('/american_flag.gif');
+    background-repeat: repeat-y;
+  }
